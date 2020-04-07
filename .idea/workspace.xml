@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74390e0-0986-4b92-87a5-a4175406756f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/LikeButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/withLoader.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585970465587</updated>
-      <workItem from="1585970466753" duration="11487000" />
+      <workItem from="1585970466753" duration="16661000" />
     </task>
     <task id="LOCAL-00001" summary="webstorm configs">
       <created>1585970929631</created>
@@ -186,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585984171477</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="useState and useEffect hooks">
+      <created>1586049472691</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586049472691</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +215,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="webstorm configs" />
     <MESSAGE value="helloworld and lints code" />
-    <option name="LAST_COMMIT_MESSAGE" value="helloworld and lints code" />
+    <MESSAGE value="useState and useEffect hooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="useState and useEffect hooks" />
   </component>
   <component name="regexState">
     <option name="map">
