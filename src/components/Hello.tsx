@@ -1,12 +1,14 @@
-import React from 'react';
+import React, {useContext} from 'react';
+import { ThemeCtx } from "../App";
 
 interface IHelloProps {
 	message?: string
 }
 
 const Hello: React.FunctionComponent<IHelloProps> = props => {
+	const theme = useContext(ThemeCtx);
 	return (
-		<h2>{props.message}</h2>
+		<h2 style={theme}>{props.message}</h2>
 	)
 };
 Hello.defaultProps = {
